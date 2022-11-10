@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EObed
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on any projects for beginners that will enhance my learning scope. 
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on any projects for web developers. 
 - 📫 How to reach me: obedeffum10@gmail.com
 
 <!---
